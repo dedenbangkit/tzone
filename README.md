@@ -1,5 +1,7 @@
 # tzone - A simple CLI timezone visualizer.
 
+![cover](https://repository-images.githubusercontent.com/231573820/44893b00-2e5a-11ea-9709-b59e3f48a3c3)
+
 #### Installation
 
 ```bash
